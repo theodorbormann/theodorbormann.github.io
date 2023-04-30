@@ -4,7 +4,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   First description 
   <br> Master's student in biochemistry with experience in MS-based omics. <br>
   Second description 
-  <br> Knowledgeable in R-based Data Science and Machine LEarning protocols. <br>
+  <br> Knowledgeable in R-based Data Science and Machine Learning protocols. <br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
